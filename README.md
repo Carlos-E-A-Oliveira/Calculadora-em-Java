@@ -1,6 +1,6 @@
 # Calculadora-em-Java
 
-Calculadora com quatro funções: Soma, Subtração, Divisão e multiplicação.
+Calculadora com quatro funções: Soma, Subtração, Divisão e Multiplicação.
 
 Contém um display que apresenta em tempo real qual das operações está sendo executada.
 
